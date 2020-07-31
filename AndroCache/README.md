@@ -2,7 +2,5 @@ A simple and easy to use cache mapping algorithms written with Android. Source c
 
 Written by Mohammad Alizadeh.
 
-![1](https://user-images.githubusercontent.com/11626212/89057364-bedb5880-d372-11ea-80b5-9817bf921ccc.jpg)
-
-![2](https://user-images.githubusercontent.com/11626212/89057397-ce5aa180-d372-11ea-9530-c0b5905b87c5.jpg)
-
+![1](https://user-images.githubusercontent.com/11626212/89057469-f34f1480-d372-11ea-9381-8188419d02f4.jpg)
+![2](https://user-images.githubusercontent.com/11626212/89057474-f4804180-d372-11ea-9830-a4cdf3ddca13.jpg)
