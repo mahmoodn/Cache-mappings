@@ -3,4 +3,4 @@ This package needs .NET core 3.1.4, so there is an installer inside the package 
 
 This program is written by Sadra Latifaltojar
 
-![1](https://user-images.githubusercontent.com/11626212/89096279-b9215980-d3ea-11ea-9395-7bbb62af1747.jpg)
+![1](https://user-images.githubusercontent.com/11626212/89096295-dc4c0900-d3ea-11ea-8061-a1321cd2c083.jpg)
