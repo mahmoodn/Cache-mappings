@@ -7,8 +7,8 @@ The purpose is to implement Direct Map (DM), Fully Associative (FA) and Set-Asso
 | Package  | Language  | Author  |
 |---|---|---|
 | AndroCache  | Android  | [Mohammad Alizadeh](https://github.com/mohammadalizadeh1179)  |
-| SharpCache  | C#  | [Sadra Latifaltojar](github.com/sadralatif2)  |
-| UniCache    | C# Unity | [Kasra Salehvand](github.com/theKasra) |
-| MongoCache  | JavaScript | [Hosein Tahan Nejad](gitlab.com/unclet1999) |
-| PyCache     | Python     | [Alireza Pashm Foroush](alireza1610@gmail.com) |
+| SharpCache  | C#  | [Sadra Latifaltojar](https://github.com/sadralatif2)  |
+| UniCache    | C# Unity | [Kasra Salehvand](https://github.com/theKasra) |
+| MongoCache  | JavaScript | [Hosein Tahan Nejad](https://gitlab.com/unclet1999) |
+| PyCache     | Python     | [Alireza Pashm Foroush](mailto:alireza1610@gmail.com) |
 
